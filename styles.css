@@ -1,0 +1,29 @@
+table,
+th,
+td {
+  border: 0.5px solid black;
+  font-family: 'Ubuntu';
+  font-size: 16px;
+  /* background-color:; */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.navbar{
+
+  text-align: left;
+  font-family: 'Ubuntu';
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ffb3b3;
+  color: white;
+  text-align: center;
+  font-family: 'Ubuntu';
+  font-size: 11px;
+}
